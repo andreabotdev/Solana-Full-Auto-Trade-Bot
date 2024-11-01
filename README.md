@@ -53,10 +53,11 @@ Setting up **Solana-Pump-Bot** is very simple:
    python server.py
    ```
 
-## My Wallet Portfolio (Always uses this bot)
+## [My Wallet Portfolio](https://birdeye.so/profile/HjiNTb9SJzVi9fc3ekr5PUMd3fCkFwEwAde52vDQD3hs?chain=solana) (Always uses this bot)
+
 ![](img/MyBotWallet.png)
 
-## Example Transactions with my Wallet:
+## Example Real Transactions with my Wallet:
 ![](img/Activities.png)
 
 
